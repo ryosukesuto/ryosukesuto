@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-delta-five-58.vercel.app/api?username=ryosukesuto&count_private=true&show_icons=true&theme=dark&hide_border=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-delta-five-58.vercel.app/api/top-langs/?username=ryosukesuto&layout=compact&theme=dark&hide_border=true&exclude_repo=obsidian-notes,dotfiles" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats-delta-five-58.vercel.app/api/top-langs/?username=ryosukesuto&layout=compact&theme=dark&hide_border=true" width="49%" alt="Top Languages" />
 </div>
 
 <div align="center">
