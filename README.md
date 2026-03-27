@@ -12,6 +12,4 @@
 
 <img src="./languages.svg" alt="Top Languages" />
 
-<img src="./habits.svg" alt="Coding Habits" />
-
 </div>
