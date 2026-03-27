@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ryosukesuto&count_private=true&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats-delta-five-58.vercel.app/api?username=ryosukesuto&count_private=true&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ryosukesuto&theme=dark&hide_border=true" alt="GitHub Streak" />
 
