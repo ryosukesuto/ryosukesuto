@@ -18,6 +18,7 @@ jobs:
           filename: stats.svg
           base: activity, repositories
           base_indepth: yes
+          repositories_skipped: ryosukesuto/obsidian-notes, ryosukesuto/dotfiles
           config_timezone: Asia/Tokyo
 
       - name: Isocalendar
@@ -42,4 +43,5 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
+          plugin_languages_skipped_repositories: ryosukesuto/obsidian-notes, ryosukesuto/dotfiles
           config_timezone: Asia/Tokyo
