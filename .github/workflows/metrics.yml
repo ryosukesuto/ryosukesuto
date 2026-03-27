@@ -11,26 +11,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Stats
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: stats.svg
-          base: activity, repositories
-          base_indepth: yes
-          repositories_skipped: ryosukesuto/obsidian-notes, ryosukesuto/dotfiles
-          config_timezone: Asia/Tokyo
-
-      - name: Isocalendar
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: isocalendar.svg
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          config_timezone: Asia/Tokyo
-
       - name: Languages
         uses: lowlighter/metrics@latest
         with:
